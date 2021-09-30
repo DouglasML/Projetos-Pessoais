@@ -1,0 +1,12 @@
+
+public class string {
+	public static void main(String[] args) {
+		String sim = "pode entrar" ;
+		
+	
+		System.out.println(sim);
+
+}
+	
+	
+}
