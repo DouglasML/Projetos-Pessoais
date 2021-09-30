@@ -1,0 +1,28 @@
+
+public class TestaVariaveis {
+
+	public static void main(String[] args) {
+		System.out.println("Boa tarde Douglas");
+		
+		int teste = 28;
+		
+		System.out.println(teste);
+		
+		int idade; 
+		idade = 28;
+		
+		System.out.println(idade);
+		
+		idade = 30 +10;
+		
+		System.out.println(idade);
+  		
+		
+		idade = (7 * 5) + 2;
+		
+		System.out.println(idade);
+		
+		System.out.println("essa e minha idade de verdade " + idade + " parabens ");
+	
+}
+}
