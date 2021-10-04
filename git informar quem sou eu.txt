@@ -1,6 +1,0 @@
-git config --global user.name "Seu nome aqui"
-git config --global user.email "seu@email.aqui"
-
-git config --list  = para ver minhas coisas
-
-Se o caminho contiver espaços, você precisará usar aspas. ( cd "/c/Program Files" )

@@ -1,3 +1,0 @@
-Se o caminho contiver espaços, você precisará usar aspas. ( cd "/c/Program Files" )
-
-C:\Users\PC-GAMER\Desktop\GIT
